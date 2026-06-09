@@ -6,11 +6,15 @@ Register File write back - https://makerchip.com/v140/ide/~0rkfAhJZ/p-0GZhLz
 Branches - https://makerchip.com/v140/ide/~0rkfAhJZ/p-0JZhKm
 
 
-Day 4 Progress
 
-• Implemented Register File (RF) Read and Write operations.
-• Added instruction decoding for ADD and ADDI instructions.
-• Implemented ALU result generation.
-• Completed Register File Bypass logic.
-• Verified successful simulation in Makerchip.
-• Captured screenshots and outputs for documentation.
+# Day 4
+
+Topics Covered:
+- Instruction Decode
+- Register File Read
+- Register File Write
+- ALU Operations
+- Register File Bypass
+
+Outcome:
+Successfully implemented and verified Register File Bypass in the RISC-V pipeline using TL-Verilog on Makerchip.
