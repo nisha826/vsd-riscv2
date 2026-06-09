@@ -1,3 +1,27 @@
+# NASSCOM RISC-V MYTH Workshop
+
+This repository contains my lab work, screenshots, Makerchip implementations, and outputs completed during the NASSCOM RISC-V MYTH Workshop.
+
+## Repository Structure
+
+- Day 1 : Linux and GitHub basics
+- Day 2 : Screenshots and workshop activities
+- Day 3 : Calculator and TL-Verilog labs
+- Day 4 : RISC-V CPU implementation labs
+- Day 5 : Branching, Pipeline Control, and Register File Bypass
+
+## Workshop Progress
+
+✅ Day 1 Completed  
+✅ Day 2 Completed  
+✅ Day 3 Completed  
+✅ Day 4 Completed  
+✅ Day 5 Completed  
+
+All screenshots, outputs, and Makerchip URLs are organized in their respective folders.
+
+
+
 
 # Getting Started with RISC-V on GitHub Codespaces
 
